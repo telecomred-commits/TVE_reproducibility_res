@@ -1,0 +1,26 @@
+Revision 1 - complete re-execution of E1-E10 from this package (python paper_experiments.py all --workers 10; python verify.py)
+Machine: Intel Core i7-12700KF, 64 GB RAM, Windows 11, Python 3.14.6. Date: 2026-11-03.
+Tolerance: boolean/categorical columns exact; numeric columns relative difference <= 1e-5; computation times not compared.
+
+E1: 2520 runs, 27 non-timing columns equal; 88 numeric values differ only by floating-point rounding (max. relative difference 1.2e-06)
+E2: 756 runs, 27 non-timing columns equal; 23 numeric values differ only by floating-point rounding (max. relative difference 2.5e-16)
+E3: 2100 runs, 1 non-timing columns equal; all values bit-identical
+E4: 564 runs, 2 non-timing columns equal; all values bit-identical
+E5: 608 runs, 4 non-timing columns equal; 1 numeric values differ only by floating-point rounding (max. relative difference 1.4e-16)
+E6: 1386 runs, 17 non-timing columns equal; 27 numeric values differ only by floating-point rounding (max. relative difference 1.3e-07)
+E7: 1000 runs, 7 non-timing columns equal; all values bit-identical
+E8: 3276 runs, 22 non-timing columns equal; 105 numeric values differ only by floating-point rounding (max. relative difference 1.8e-08)
+E9: 1296 runs, 26 non-timing columns equal; all values bit-identical
+E10: 672 runs, 31 non-timing columns equal; 15 numeric values differ only by floating-point rounding (max. relative difference 1.2e-06)
+
+Execution times of the re-execution:
+E1: 2520 rows in 232 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e1.csv
+E2: 756 rows in 297 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e2.csv
+E3: 2100 rows in 1495 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e3.csv
+E4: 564 rows in 492 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e4.csv
+E5: 608 rows in 317 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e5.csv
+E6: 1386 rows in 215 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e6.csv
+E7: 1000 rows in 320 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e7.csv
+E8: 3276 rows in 91 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e8.csv
+E9: 1296 rows in 121 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e9.csv
+E10: 672 rows in 123 s -> C:\Users\oscar\Documents\Navegación_Robótica\TVE_reproducibility\results\rerun\e10.csv

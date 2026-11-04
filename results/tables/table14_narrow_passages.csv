@@ -1,0 +1,217 @@
+algo,planner,kind,gap_px,valid_pct,through_pct,L_over_best_median,time_ms_median
+astar,A*,corridor,1,100,0,1.74509,16.9061
+astar,A*,corridor,2,100,83.3333,1.04566,3.8442
+astar,A*,corridor,3,100,100,1.04183,4.1531
+astar,A*,corridor,4,100,100,1.04733,2.2548
+astar,A*,corridor,6,100,100,1.02901,2.4707
+astar,A*,corridor,8,100,100,1.04529,2.9375
+astar,A*,corridor,12,100,100,1.04791,2.77715
+astar,A*,corridor,16,100,100,1.05498,3.0878
+astar,A*,door,1,100,0,2.0618,15.6508
+astar,A*,door,2,100,50,1.1109,4.4701
+astar,A*,door,3,100,100,1.06561,2.0593
+astar,A*,door,4,100,100,1.06943,2.33545
+astar,A*,door,6,100,100,1.07725,2.3675
+astar,A*,door,8,100,100,1.05442,2.27275
+astar,A*,door,12,100,100,1.06514,2.6467
+astar,A*,door,16,100,100,1.07257,2.6138
+astar,A*,slit,1,100,0,2.17631,14.596
+astar,A*,slit,2,100,66.6667,1.0719,3.36045
+astar,A*,slit,3,100,100,1.06414,2.1571
+astar,A*,slit,4,100,100,1.07252,2.20555
+astar,A*,slit,6,100,100,1.07198,2.9274
+astar,A*,slit,8,100,100,1.06536,2.01375
+astar,A*,slit,12,100,100,1.06173,2.23825
+astar,A*,slit,16,100,100,1.07339,2.09555
+g2vd,G2VD,corridor,1,100,0,1.74343,3918.69
+g2vd,G2VD,corridor,2,50,50,1.02959,2515.92
+g2vd,G2VD,corridor,3,83.3333,83.3333,1.01475,2544.91
+g2vd,G2VD,corridor,4,100,100,1.03099,1706.51
+g2vd,G2VD,corridor,6,100,100,1.02036,337.458
+g2vd,G2VD,corridor,8,100,100,1.02824,509.404
+g2vd,G2VD,corridor,12,100,100,1.0274,494.126
+g2vd,G2VD,corridor,16,100,100,1.03517,171.145
+g2vd,G2VD,door,1,100,0,2.11963,3033.52
+g2vd,G2VD,door,2,50,33.3333,1.02573,4138.47
+g2vd,G2VD,door,3,100,100,1.02976,147.011
+g2vd,G2VD,door,4,100,100,1.03021,568.665
+g2vd,G2VD,door,6,100,100,1.03344,182.074
+g2vd,G2VD,door,8,100,100,1.03965,300.481
+g2vd,G2VD,door,12,100,100,1.04319,308.601
+g2vd,G2VD,door,16,100,100,1.044,237.317
+g2vd,G2VD,slit,1,100,0,2.12173,2254.39
+g2vd,G2VD,slit,2,50,50,1.01454,5187.41
+g2vd,G2VD,slit,3,100,100,1.01988,322.995
+g2vd,G2VD,slit,4,100,100,1.02364,217.892
+g2vd,G2VD,slit,6,100,100,1.02336,275.034
+g2vd,G2VD,slit,8,100,100,1.02837,151.404
+g2vd,G2VD,slit,12,100,100,1.02622,279.181
+g2vd,G2VD,slit,16,100,100,1.05329,183.223
+mvdrm,MVDRM,corridor,1,100,0,1.99888,149.388
+mvdrm,MVDRM,corridor,2,100,100,1.24629,147.096
+mvdrm,MVDRM,corridor,3,100,83.3333,1.17874,165.178
+mvdrm,MVDRM,corridor,4,100,100,1.19663,156.228
+mvdrm,MVDRM,corridor,6,100,100,1.17962,157.752
+mvdrm,MVDRM,corridor,8,100,100,1.18899,158.371
+mvdrm,MVDRM,corridor,12,100,100,1.24397,144.328
+mvdrm,MVDRM,corridor,16,100,100,1.14079,148.726
+mvdrm,MVDRM,door,1,100,100,1.24437,158.87
+mvdrm,MVDRM,door,2,100,83.3333,1.43189,148.017
+mvdrm,MVDRM,door,3,100,100,1.42788,149.761
+mvdrm,MVDRM,door,4,100,100,1.38566,143.364
+mvdrm,MVDRM,door,6,100,100,1.33216,149.621
+mvdrm,MVDRM,door,8,100,100,1.38525,154.414
+mvdrm,MVDRM,door,12,100,100,1.22804,156.892
+mvdrm,MVDRM,door,16,100,100,1.26903,152.627
+mvdrm,MVDRM,slit,1,100,16.6667,2.75983,153.569
+mvdrm,MVDRM,slit,2,100,100,1.38347,160.899
+mvdrm,MVDRM,slit,3,100,100,1.28528,148.833
+mvdrm,MVDRM,slit,4,100,100,1.26803,162.067
+mvdrm,MVDRM,slit,6,100,100,1.30142,157.705
+mvdrm,MVDRM,slit,8,100,100,1.38869,148.246
+mvdrm,MVDRM,slit,12,100,100,1.2867,145.708
+mvdrm,MVDRM,slit,16,100,100,1.36205,146.506
+prm,PRM,corridor,1,100,0,1.76226,696.789
+prm,PRM,corridor,2,100,0,1.65706,691.577
+prm,PRM,corridor,3,100,0,1.68166,720.037
+prm,PRM,corridor,4,100,33.3333,1.35966,712.341
+prm,PRM,corridor,6,100,66.6667,1.06295,712.418
+prm,PRM,corridor,8,100,66.6667,1.05264,707.546
+prm,PRM,corridor,12,100,100,1.04137,698.234
+prm,PRM,corridor,16,100,100,1.02921,673.525
+prm,PRM,door,1,100,0,2.32145,753.673
+prm,PRM,door,2,100,0,1.77262,717.116
+prm,PRM,door,3,100,16.6667,1.8612,726.547
+prm,PRM,door,4,100,33.3333,1.74468,709.375
+prm,PRM,door,6,100,66.6667,1.04976,735.727
+prm,PRM,door,8,100,83.3333,1.0488,712.177
+prm,PRM,door,12,100,100,1.03192,704.353
+prm,PRM,door,16,100,100,1.04189,693.38
+prm,PRM,slit,1,100,16.6667,2.17882,683.547
+prm,PRM,slit,2,100,0,1.65598,683.627
+prm,PRM,slit,3,100,33.3333,1.80246,698.514
+prm,PRM,slit,4,100,16.6667,2.05037,707.317
+prm,PRM,slit,6,100,83.3333,1.07394,711.633
+prm,PRM,slit,8,100,66.6667,1.08586,684.216
+prm,PRM,slit,12,100,100,1.04507,723.979
+prm,PRM,slit,16,100,100,1.04021,706.14
+rrt_star,RRT*,corridor,1,100,0,1.65236,1904.19
+rrt_star,RRT*,corridor,2,100,0,1.52481,1954.71
+rrt_star,RRT*,corridor,3,100,16.6667,1.3966,1909.54
+rrt_star,RRT*,corridor,4,100,0,1.34445,1945.76
+rrt_star,RRT*,corridor,6,100,33.3333,1.18643,1965.18
+rrt_star,RRT*,corridor,8,100,83.3333,1.00111,1978.05
+rrt_star,RRT*,corridor,12,100,100,1.00493,1948.12
+rrt_star,RRT*,corridor,16,100,100,1.00088,1967.05
+rrt_star,RRT*,door,1,100,16.6667,1.8844,2029.31
+rrt_star,RRT*,door,2,100,50,1.25273,2007.74
+rrt_star,RRT*,door,3,100,83.3333,1.01444,2035.34
+rrt_star,RRT*,door,4,100,100,1.0067,2119
+rrt_star,RRT*,door,6,100,100,1.00225,2020.59
+rrt_star,RRT*,door,8,100,100,1.00164,2007.37
+rrt_star,RRT*,door,12,100,100,1.00991,1926.12
+rrt_star,RRT*,door,16,100,100,1.00391,1931.3
+rrt_star,RRT*,slit,1,100,66.6667,1.01454,1896.3
+rrt_star,RRT*,slit,2,100,83.3333,1.01069,2011.82
+rrt_star,RRT*,slit,3,100,83.3333,1.00272,2004.88
+rrt_star,RRT*,slit,4,100,83.3333,1.00391,2015.41
+rrt_star,RRT*,slit,6,100,100,1.0042,2117.43
+rrt_star,RRT*,slit,8,100,100,1.00257,1926.02
+rrt_star,RRT*,slit,12,100,100,1.0026,1913.43
+rrt_star,RRT*,slit,16,100,100,1.00326,2025.13
+teselado,WDT,corridor,1,100,100,1.00658,121.36
+teselado,WDT,corridor,2,100,100,1.01148,47.0466
+teselado,WDT,corridor,3,100,100,1.00197,93.6354
+teselado,WDT,corridor,4,100,100,1.01532,39.133
+teselado,WDT,corridor,6,100,100,1.00786,47.2295
+teselado,WDT,corridor,8,100,100,1.01095,39.3778
+teselado,WDT,corridor,12,100,100,1.03514,43.086
+teselado,WDT,corridor,16,100,100,1.00527,41.691
+teselado,WDT,door,1,100,100,1.0159,51.2261
+teselado,WDT,door,2,100,83.3333,1.03157,44.6001
+teselado,WDT,door,3,100,100,1.02367,45.5112
+teselado,WDT,door,4,100,100,1.03526,45.9025
+teselado,WDT,door,6,100,100,1.01181,51.9051
+teselado,WDT,door,8,100,100,1.03318,160.072
+teselado,WDT,door,12,100,100,1.02214,41.1237
+teselado,WDT,door,16,100,100,1.02468,44.4226
+teselado,WDT,slit,1,100,83.3333,1.02649,48.7502
+teselado,WDT,slit,2,100,83.3333,1.02405,44.1246
+teselado,WDT,slit,3,100,100,1.03564,43.0965
+teselado,WDT,slit,4,100,100,1.00712,42.4539
+teselado,WDT,slit,6,100,100,1.01552,45.4276
+teselado,WDT,slit,8,100,100,1.01739,45.5918
+teselado,WDT,slit,12,100,100,1.01466,43.7483
+teselado,WDT,slit,16,100,100,1.00568,43.4204
+theta,Theta*,corridor,1,100,0,1.66381,2116.55
+theta,Theta*,corridor,2,100,83.3333,1.00648,333.693
+theta,Theta*,corridor,3,100,100,1.00428,329.017
+theta,Theta*,corridor,4,100,100,1.00923,210.962
+theta,Theta*,corridor,6,100,100,1.00623,201.454
+theta,Theta*,corridor,8,100,100,1.0058,274.038
+theta,Theta*,corridor,12,100,100,1.00259,267.134
+theta,Theta*,corridor,16,100,100,1.00685,294.56
+theta,Theta*,door,1,100,0,1.94812,1807.63
+theta,Theta*,door,2,100,50,1.05958,489.464
+theta,Theta*,door,3,100,100,1.01053,140.018
+theta,Theta*,door,4,100,100,1.0091,199.798
+theta,Theta*,door,6,100,100,1.01039,189.437
+theta,Theta*,door,8,100,100,1.00838,214.873
+theta,Theta*,door,12,100,100,1.00755,261.607
+theta,Theta*,door,16,100,100,1.00815,252.709
+theta,Theta*,slit,1,100,0,2.02239,1665.21
+theta,Theta*,slit,2,100,66.6667,1.01251,334.709
+theta,Theta*,slit,3,100,100,1.00795,166.092
+theta,Theta*,slit,4,100,100,1.0045,138.435
+theta,Theta*,slit,6,100,100,1.00665,174.114
+theta,Theta*,slit,8,100,100,1.01005,108.06
+theta,Theta*,slit,12,100,100,1.00763,189.78
+theta,Theta*,slit,16,100,100,1.00597,103.421
+tve,TVE (proposed),corridor,1,100,100,1,35.7843
+tve,TVE (proposed),corridor,2,100,100,1.00115,34.797
+tve,TVE (proposed),corridor,3,100,100,1.00136,40.4658
+tve,TVE (proposed),corridor,4,100,100,1.00247,30.508
+tve,TVE (proposed),corridor,6,100,100,1.00153,30.6394
+tve,TVE (proposed),corridor,8,100,100,1.00408,28.1192
+tve,TVE (proposed),corridor,12,100,100,1.0046,39.08
+tve,TVE (proposed),corridor,16,100,100,1.00345,30.0328
+tve,TVE (proposed),door,1,100,100,1,28.8227
+tve,TVE (proposed),door,2,100,100,1.00195,27.3662
+tve,TVE (proposed),door,3,100,100,1.00221,26.7316
+tve,TVE (proposed),door,4,100,100,1.00276,26.7154
+tve,TVE (proposed),door,6,100,100,1.00487,25.129
+tve,TVE (proposed),door,8,100,100,1.00371,22.5695
+tve,TVE (proposed),door,12,100,83.3333,1.00526,19.9353
+tve,TVE (proposed),door,16,100,100,1.00682,21.2441
+tve,TVE (proposed),slit,1,100,100,1.00223,24.4765
+tve,TVE (proposed),slit,2,100,100,1.00135,25.1471
+tve,TVE (proposed),slit,3,100,100,1.00308,26.2444
+tve,TVE (proposed),slit,4,100,100,1.00449,20.7155
+tve,TVE (proposed),slit,6,100,100,1.00311,23.1104
+tve,TVE (proposed),slit,8,100,100,1.00911,24.884
+tve,TVE (proposed),slit,12,100,100,1.00336,22.5388
+tve,TVE (proposed),slit,16,100,100,1.00325,21.883
+visibility,Visibility graph,corridor,1,100,0,1.64972,1031.3
+visibility,Visibility graph,corridor,2,100,100,1,1157.5
+visibility,Visibility graph,corridor,3,100,100,1,1248.78
+visibility,Visibility graph,corridor,4,100,100,1,1225.95
+visibility,Visibility graph,corridor,6,100,100,1,1059.65
+visibility,Visibility graph,corridor,8,100,100,1,1246.39
+visibility,Visibility graph,corridor,12,100,100,1,974.645
+visibility,Visibility graph,corridor,16,100,100,1,1174.8
+visibility,Visibility graph,door,1,100,33.3333,1.93867,1161.64
+visibility,Visibility graph,door,2,100,100,1,1010.06
+visibility,Visibility graph,door,3,100,100,1,1173.07
+visibility,Visibility graph,door,4,100,100,1,1127.69
+visibility,Visibility graph,door,6,100,100,1,1313.69
+visibility,Visibility graph,door,8,100,100,1,1184.82
+visibility,Visibility graph,door,12,100,100,1,1204.53
+visibility,Visibility graph,door,16,100,100,1,1354.29
+visibility,Visibility graph,slit,1,100,100,1,951.678
+visibility,Visibility graph,slit,2,100,100,1,1171.22
+visibility,Visibility graph,slit,3,100,100,1,1186.63
+visibility,Visibility graph,slit,4,100,100,1,1204.31
+visibility,Visibility graph,slit,6,100,100,1,1279.55
+visibility,Visibility graph,slit,8,100,100,1,1428.25
+visibility,Visibility graph,slit,12,100,100,1,1201.81
+visibility,Visibility graph,slit,16,100,100,1,1164.13

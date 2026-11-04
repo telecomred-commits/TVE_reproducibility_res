@@ -1,0 +1,13 @@
+scene,level,seed,size,defects_obstacles,nodes_obstacles,defects_contours,nodes_contours,experiments,affected
+hospital,dificil,1,400,1,2,1,40,E1,True
+hospital,facil,0,400,2,0,2,39,E1,True
+office,facil,2,400,1,4,1,25,E1,True
+warehouse,dificil,0,400,1,4,1,20,E1,True
+store,medio,101,400,1,16,1,26,E2,True
+warehouse,medio,301,200,1,4,1,15,E4,True
+office,medio,400,400,1,2,1,24,E5,True
+hospital,dificil,501,400,1,2,1,41,E6,True
+office,dificil,502,400,1,2,1,24,E6,True
+office,medio,502,400,1,4,2,28,E6,True
+hospital,facil,600,400,1,2,1,38,E7,True
+hospital,medio,600,400,1,2,1,41,E7,True

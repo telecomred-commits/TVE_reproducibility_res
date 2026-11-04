@@ -1,0 +1,25 @@
+Integrity check of results/raw (python statistics/check_raw.py)
+
+[OK] E1 runs: 2520 rows = 84 maps x 2 queries x 15 planners
+[OK] E8 runs: 3276 rows = 63 maps x 2 queries x 26 settings
+[OK] E8 every query has every setting: 126 queries
+[OK] E8 one default row per parameter and query: is_default
+[OK] E8 seeds not used in E1-E7: seeds [700, 701, 702]
+[OK] E9 runs: 1296 rows = 3 geometries x 8 widths x 6 layouts x 9 planners (visibility + 8)
+[OK] E9 every planner succeeded or failed explicitly: column exito
+[OK] E10 runs: 672 rows = 84 maps x 2 queries x 4 planners
+[OK] E10 uses the queries of E1: max |difference of S, T| = 0 px
+[OK] E10 TVE paths equal to those of E1: max |difference of length| = 2.8e-07 m
+[OK] E1 valid runs have all metrics: 2314 valid runs, 0 missing values; queries without reference L* (the visibility graph found no path): 0
+[OK] E8 valid runs have all metrics: 3276 valid runs, 0 missing values; queries without reference L* (the visibility graph found no path): 1
+[OK] E9 valid runs have all metrics: 1286 valid runs, 0 missing values; queries without reference L* (the visibility graph found no path): 0
+[OK] E10 valid runs have all metrics: 670 valid runs, 0 missing values; queries without reference L* (the visibility graph found no path): 0
+[OK] revision log lists the 12 maps: 12 jobs in revision1_reruns.json, 12 maps in r1_skeleton_correction_maps.csv
+[OK] original_submission/e1.csv: 2520 rows (same runs as the corrected file)
+[OK] original_submission/e2.csv: 756 rows (same runs as the corrected file)
+[OK] original_submission/e4.csv: 564 rows (same runs as the corrected file)
+[OK] original_submission/e5.csv: 608 rows (same runs as the corrected file)
+[OK] original_submission/e6.csv: 1386 rows (same runs as the corrected file)
+[OK] original_submission/e7.csv: 1000 rows (same runs as the corrected file)
+
+SHA-256 of 21 files written to results/checksums_sha256.txt
