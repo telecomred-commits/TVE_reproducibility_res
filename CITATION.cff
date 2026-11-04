@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or these results, please cite the article and this archived version."
+title: "TVE: Voronoi tessellation skeleton and funnel path tightening — reproducibility package"
+version: 1.1.0
+license: MIT
+type: software
+authors:
+  - family-names: Penagos
+    given-names: Oscar
+    affiliation: "Fundación Universitaria Los Libertadores, Bogotá, Colombia"
+  - family-names: Ladino
+    given-names: Ivan
+    affiliation: "Fundación Universitaria Los Libertadores, Bogotá, Colombia"
+  - family-names: Suárez
+    given-names: Carlos René
+    affiliation: "Fundación Universitaria Los Libertadores, Bogotá, Colombia"
+keywords:
+  - path planning
+  - Voronoi diagram
+  - funnel algorithm
+  - mobile robots
+  - reproducibility
+abstract: >-
+  Code, configurations, seeds, raw results and scripts that reproduce every table and figure of the article
+  "Fast and Curvature-Aware Robot Navigation on Camera-Derived Maps Using a Voronoi Tessellation Skeleton and
+  Funnel Path Tightening" (experiments E1-E10, revision 1).
+preferred-citation:
+  type: article
+  title: "Fast and Curvature-Aware Robot Navigation on Camera-Derived Maps Using a Voronoi Tessellation Skeleton and Funnel Path Tightening"
+  authors:
+    - family-names: Penagos
+      given-names: Oscar
+    - family-names: Ladino
+      given-names: Ivan
+    - family-names: Suárez
+      given-names: Carlos René
+  journal: "Robotics"
+  year: 2026
+  notes: "Manuscript robotics-4632217, under review"
